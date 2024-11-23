@@ -2,8 +2,8 @@
 .gradle
 /local.properties
 /.idea
-/.idea/caches
-/.kotlin
+.idea/caches
+.kotlin
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
