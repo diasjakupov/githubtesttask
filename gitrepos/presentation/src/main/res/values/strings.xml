@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_data_found">No Data Found</string>
+    <string name="empty_search">Please enter search query</string>
+    <string name="unexpected_error">Unexpected error</string>
+    <string name="search">Search</string>
+    <string name="users">Users</string>
+    <string name="item_author">Author: %s</string>
+    <string name="searchBarHint">Enter name...</string>
+    <string name="saved_sign"> ★</string>
+    <string name="sort_by_label">Sort by</string>
+    <string name="updated_date">Update date</string>
+    <string name="stars_label">Stars count</string>
+    <string name="forks_label">Forks count</string>
+    <string name="apply_filters">Apply filters</string>
+    <string name="url_load_error">Url Not Found :(</string>
+    <string name="history">History</string>
+    <string name="no_bio">No bio</string>
+</resources>

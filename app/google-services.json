@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692039418290",
+    "project_id": "zimrangithub",
+    "storage_bucket": "zimrangithub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692039418290:android:bd337b1e089b569b5524ab",
+        "android_client_info": {
+          "package_name": "com.example.zimrangithub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_6K71wNyMkx8Y9hMMognjD6Cb2cB7gQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
